@@ -1,5 +1,5 @@
 # biwascheme-parser
-Meant to replace /src/system/parser.js in github.com/biwascheme/biwascheme.
+Meant to replace /src/system/parser.js in github.com/biwascheme/biwascheme, in order to fix issue #307.
 
 This script is licensed under the GNU GPLv3.
 Last modified 13/3/2023.
